@@ -57,11 +57,13 @@ pip install -r requirements.txt
 ### Run the Model
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/muhmubeen1/PRODIGY_ML_03/tree/main                                                                                
+  
    ```
 2. Navigate to the project folder:
    ```bash
-   cd your-repo-name
+   cd PRODIGY_ML_03                                                   
+   
    ```
 3. Open the `model_code.ipynb` Jupyter Notebook and run each cell sequentially to train the model and evaluate it on the test set.
 
